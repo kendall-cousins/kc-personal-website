@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Venture Due Diligence – Pre-ERP Integration Software Platform",
+    "category": "Finance",
+    "date": "Apr 2026 – May 2026",
+    "organization": "The Ronnie K. Irani Center for the Creation of Economic Wealth (I-CCEW)",
+    "description": "Supported venture capital due diligence on a software company building a pre-ERP integration solution that streamlines data connectivity and implementation workflows ahead of ERP deployments. Assessed market opportunity, competitive landscape, customer value proposition, and technology positioning, then synthesized findings into investment recommendations for a potential venture investment.",
+    "technologies": ["Due Diligence", "Venture Capital", "Market Research", "Competitive Analysis"]
+  },
+  {
+    "title": "Project Alpha – Strategic Equity Investment Analysis",
+    "category": "Finance",
+    "date": "Mar 2026",
+    "organization": "The Ronnie K. Irani Center for the Creation of Economic Wealth (I-CCEW)",
+    "description": "Performed investment research and financial projections on a publicly traded company identified as a potential long-term holding for the program. Evaluated industry trends, company fundamentals, growth catalysts, and risk factors to build an investment thesis and recommendation. The position has generated returns consistent with the original investment rationale.",
+    "technologies": ["Equity Research", "Financial Modeling", "Portfolio Management"]
+  },
+  {
+    "title": "International Angel Investment Group Feasibility Study",
+    "category": "Finance",
+    "date": "Jan 2026 – Feb 2026",
+    "organization": "The Ronnie K. Irani Center for the Creation of Economic Wealth (I-CCEW)",
+    "description": "Evaluated the viability of an international angel investment network connecting investors, founders, and entrepreneurial ecosystems across Southeast Asia. Developed recommendations for fund structure, membership models, governance, deal sourcing, and cross-border investment processes. The work informed discussions around a $2.5 million investment initiative.",
+    "technologies": ["Venture Capital", "Market Research", "Strategic Analysis"]
+  },
+  {
+    "title": "AnybanQ – Customer Engagement in Sri Lanka's Financial Services",
+    "category": "Data",
+    "date": "Fall 2025",
+    "organization": "Global Entrepreneurship (course)",
+    "description": "Helped AnybanQ explore how financial institutions in Sri Lanka can better understand and engage their users. Mapped the path end-to-end: stronger onboarding increases activation, reduces friction, and captures richer behavioral signals, which can then feed internal performance dashboards and external market insights. Used Power BI, DAX, and Python modeling to show how better onboarding drives better data and insights, increasing the platform's value for both institutions and end users.",
+    "technologies": ["Power BI", "DAX", "Python", "Data Modeling"]
+  },
+  {
+    "title": "Tobe Energy – Clean Hydrogen Commercialization Strategy",
+    "category": "Strategy",
+    "date": "Fall 2025",
+    "organization": "The Ronnie K. Irani Center for the Creation of Economic Wealth (I-CCEW)",
+    "description": "Served as Team Lead on an engagement with Tobe Energy, a company developing electrolyzers for clean hydrogen production, to support its commercialization strategy. Analyzed market opportunities, customer segments, and business models to position the technology for entry into the clean energy market. Set the project's pace, managed timelines, translated complex technical concepts into actionable insights, and delivered client-ready recommendations.",
+    "technologies": ["Commercialization Strategy", "Market Research", "Business Model Analysis", "Team Leadership"]
+  },
+  {
+    "title": "MIS Faculty Contact Scraper",
+    "category": "Programming",
+    "date": "Fall 2026",
+    "organization": "MIS Department, University of Oklahoma",
+    "description": "Built a web scraper and AI agents that gather contact emails for Management Information Systems faculty at universities across the US, automating what would otherwise be a slow manual search of department directories.",
+    "technologies": ["Web Scraping", "AI Agents", "Python", "Claude Code"]
+  }
+]
