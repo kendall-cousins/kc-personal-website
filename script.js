@@ -14,7 +14,7 @@ if (projectList) {
 
 
     // ---------- STEP 1: Load projects.json with fetch() ----------
-    fetch("data/projects.json")
+    fetch("projects.json")
         .then(response => response.json())
         .then(projects => {
             allProjects = projects;
