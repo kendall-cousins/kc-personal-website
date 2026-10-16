@@ -21,12 +21,12 @@ const LOADING_LOOPS = 3;      // times the fake loading screen restarts before g
 
 // Every GIF in the images folder - add new file names here
 const GIFS = [
-    "Working Kermit The Frog GIF.gif",
-    "Suspicious Monkey GIF by MOODMAN.gif",
-    "Lizard Hello GIF.gif",
-    "Minions Mic Drop GIF.gif",
-    "Shaun The Sheep Movie Ok GIF.gif",
-    "Happy Season 5 GIF by The Office.gif"
+    "images/Working Kermit The Frog GIF.gif",
+    "images/Suspicious Monkey GIF by MOODMAN.gif",
+    "images/Lizard Hello GIF.gif",
+    "images/Minions Mic Drop GIF.gif",
+    "images/Shaun The Sheep Movie Ok GIF.gif",
+    "images/Happy Season 5 GIF by The Office.gif"
 ];
 
 // All the effects fun mode can pick from.
